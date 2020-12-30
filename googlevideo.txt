@@ -1,5 +1,5 @@
-### Youtube Ad-Block-List for PiHole by HenningVanRäumle ###
-### Updated by me 30.12.2020 ###
+# Youtube Ad-Block-List for PiHole by HenningVanRäumle
+# Updated by me 30.12.2020
 
 0.0.0.0 r5---sn-4g5ednsk.googlevideo.com
 0.0.0.0 r2---sn-h0jeen7d.googlevideo.com
