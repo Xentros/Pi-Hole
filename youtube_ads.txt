@@ -1,8 +1,12 @@
-### German Youtube Ad blocker
-### License: MIT
-### Updated: 2023-02-19
-
-
+# Title: Youtube ads
+# Description: Filters youtube ads from my TV
+# Last modified: Sun, 11 Jun 2023, 13:19 
+# Version: 2023.2
+# Expires: 2 days
+# Website: https://placeholder
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+# Creator: xentros
+# Maintainer: xentros
 0.0.0.0 r4---sn-4g5edn6y.googlevideo.com
 0.0.0.0 r4---sn-4g5ednsd.googlevideo.com
 0.0.0.0 r4.sn-5hne6nzs.googlevideo.com
